@@ -18,7 +18,7 @@ public class Rotate : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 dir = new Vector3(30,90,45).normalized;
-        float c = 100;
+        float c = 100f;
         Vector3 force = dir * c * Time.fixedDeltaTime;
         GetComponent<Rigidbody>().AddTorque(force, ForceMode.Impulse);
         q = transform.rotation;

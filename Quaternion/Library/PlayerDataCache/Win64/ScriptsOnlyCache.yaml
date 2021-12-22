@@ -100,79 +100,79 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1600}
     - Class: 114
-      Script: {instanceID: 1610}
+      Script: {instanceID: 1612}
     - Class: 114
-      Script: {instanceID: 1864}
+      Script: {instanceID: 1866}
     - Class: 114
-      Script: {instanceID: 1958}
+      Script: {instanceID: 1960}
     - Class: 114
-      Script: {instanceID: 1992}
+      Script: {instanceID: 1994}
     - Class: 114
-      Script: {instanceID: 2086}
+      Script: {instanceID: 2088}
     - Class: 114
-      Script: {instanceID: 2444}
+      Script: {instanceID: 2278}
     - Class: 114
-      Script: {instanceID: 2446}
+      Script: {instanceID: 2448}
     - Class: 114
-      Script: {instanceID: 2472}
+      Script: {instanceID: 2450}
     - Class: 114
-      Script: {instanceID: 2812}
+      Script: {instanceID: 2476}
     - Class: 114
-      Script: {instanceID: 2930}
+      Script: {instanceID: 2816}
     - Class: 114
-      Script: {instanceID: 2964}
+      Script: {instanceID: 2934}
     - Class: 114
-      Script: {instanceID: 3116}
+      Script: {instanceID: 2968}
     - Class: 114
-      Script: {instanceID: 3392}
+      Script: {instanceID: 3120}
     - Class: 114
-      Script: {instanceID: 3540}
+      Script: {instanceID: 3396}
     - Class: 114
-      Script: {instanceID: 3548}
+      Script: {instanceID: 3544}
     - Class: 114
-      Script: {instanceID: 3710}
+      Script: {instanceID: 3552}
     - Class: 114
-      Script: {instanceID: 3780}
+      Script: {instanceID: 3714}
     - Class: 114
-      Script: {instanceID: 3838}
+      Script: {instanceID: 3784}
     - Class: 114
-      Script: {instanceID: 3988}
+      Script: {instanceID: 3842}
     - Class: 114
-      Script: {instanceID: 4134}
+      Script: {instanceID: 3992}
     - Class: 114
-      Script: {instanceID: 4156}
+      Script: {instanceID: 4138}
     - Class: 114
-      Script: {instanceID: 4250}
+      Script: {instanceID: 4160}
     - Class: 114
-      Script: {instanceID: 4350}
+      Script: {instanceID: 4254}
     - Class: 114
-      Script: {instanceID: 4380}
+      Script: {instanceID: 4354}
     - Class: 114
-      Script: {instanceID: 4418}
+      Script: {instanceID: 4384}
     - Class: 114
-      Script: {instanceID: 4520}
+      Script: {instanceID: 4422}
     - Class: 114
       Script: {instanceID: 4524}
     - Class: 114
-      Script: {instanceID: 4600}
+      Script: {instanceID: 4528}
     - Class: 114
-      Script: {instanceID: 4724}
+      Script: {instanceID: 4604}
     - Class: 114
-      Script: {instanceID: 4918}
+      Script: {instanceID: 4728}
     - Class: 114
-      Script: {instanceID: 5410}
+      Script: {instanceID: 4922}
     - Class: 114
-      Script: {instanceID: 5590}
+      Script: {instanceID: 5414}
     - Class: 114
-      Script: {instanceID: 5648}
+      Script: {instanceID: 5594}
     - Class: 114
-      Script: {instanceID: 6090}
+      Script: {instanceID: 5652}
     - Class: 114
-      Script: {instanceID: 6142}
+      Script: {instanceID: 6094}
     - Class: 114
-      Script: {instanceID: 6548}
+      Script: {instanceID: 6146}
     - Class: 114
-      Script: {instanceID: 18926}
+      Script: {instanceID: 6552}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -342,6 +342,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.RenderPipelines.Universal.Runtime.dll
     namespaceName: UnityEngine.Rendering.Universal
     className: WhiteBalance
+  - hash:
+      serializedVersion: 2
+      Hash: 45e75aeadc97b4734b6ad72ecb640108
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Rotate
   - hash:
       serializedVersion: 2
       Hash: 8d35f16c5022311c6f4d9432be73bfcf
@@ -1020,12 +1026,6 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
     className: TouchInputModule
-  - hash:
-      serializedVersion: 2
-      Hash: 45e75aeadc97b4734b6ad72ecb640108
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Rotate
   platform: 19
   scenePathNames:
   - Assets/Scenes.unity
